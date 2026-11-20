@@ -73,7 +73,7 @@ def render_header() -> None:
         unsafe_allow_html=True)
 
 
-FOOTER_CITATION = ("Citation: Kirkpatrick, L. D.*, Sarkiss, A. E.*, et al. (2026) — "
+FOOTER_CITATION = ("Citation: Kirkpatrick, L. D.*, Sarkiss, A. E.*, Waldburger, L.*, et al. (2026) — "
                    "Poplar TF Activation Domain Atlas.")
 
 

@@ -17,9 +17,9 @@ CONTACTS = [  # (name, role, email)
     ("Patrick M. Shih", "Corresponding Author", "pmshih@berkeley.edu"),
 ]
 
-# Markdown: the co-first-author asterisks are escaped (\*) so they render literally.
+# Markdown: the equal-contribution asterisks are escaped (\*) so they render literally.
 CITATION_MD = (
-    r"Kirkpatrick, L. D.\*, Sarkiss, A. E.\*, Waldburger, L., Kesselhaut, M. A., Zintel, M., Liu, S., "
+    r"Kirkpatrick, L. D.\*, Sarkiss, A. E.\*, Waldburger, L.\*, Kesselhaut, M. A., Zintel, M., Liu, S., "
     r"Keasling, J. D., Staller, M. V., & Shih, P. M. (2026). A genome-wide map of poplar transcription "
     r"factor activation domains uncovers pervasive turnover and tuning. "
     r"\[Manuscript in preparation / bioRxiv forthcoming\]. "
